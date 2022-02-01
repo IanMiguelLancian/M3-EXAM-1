@@ -22,7 +22,7 @@
     background-color: rgb(37, 36, 36);
     padding: 8px 0;
     border-radius: 7px;
-    margin-left: 2px;
+    margin-left: 10px;
     margin-top: 5px;
     font-size: 17px;
   }
@@ -40,9 +40,9 @@
     word-wrap: break-word;
     background-color: rgb(37, 36, 36);
     border-radius: 7px;
-    margin-left: 2px;
+    margin-left: 10px;
     padding: 8px 0;
-    margin-top: 5px;
+    margin-top: 3px;
   }
   #lyrics_background {
     padding-top: 70px;
@@ -55,7 +55,8 @@
     background-color: rgb(37, 36, 36);
     border-radius: 7px;
     float: right;
-    margin-top: -740px;
+    margin-top: -736px;
+    margin-right: 8px;
   }
 
 
