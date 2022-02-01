@@ -1,5 +1,3 @@
-
-
 //DAYGLOW CAN I CALL YOU TONIGHT
 function dayglow(){
     fetch("https://api.lyrics.ovh/v1/Dayglow/Can I Call You Tonight")
@@ -40,11 +38,7 @@ function dayglow(){
             console.log(err+'404');
         }
         )
-
-
 }
-
-
 //KALEIDOSCOPE WORLD
 function kal_world(){
     fetch("https://api.lyrics.ovh/v1/Francis Magalona/Kaleidoscope World")
@@ -86,11 +80,7 @@ function kal_world(){
             console.log(err+'404');
         }
         )
-
-
 }
-
-
 //THATS WHAT YOU GET PARAMORE
 function paramore(){
     fetch("https://api.lyrics.ovh/v1/Paramore/That's What You Get")
@@ -181,8 +171,6 @@ function rivermaya(){
 
 
 }
-
-
 //BEACHFOSSILS DOWN THE LINE
 function beachfossils(){
     fetch("https://api.lyrics.ovh/v1/Beach Fossils/Down the Line")
@@ -224,6 +212,4 @@ function beachfossils(){
             console.log(err+'404');
         }
         )
-
-
 }
